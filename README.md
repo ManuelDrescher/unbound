@@ -1,2 +1,7 @@
-# unbound
-Custom and modified unbound configuration file for speed, Security (hardened) and IPv6 enabled
+# 📚 unbound
+Custom and modified unbound configuration file for speed, security (hardened) and IPv6 enabled
+
+* Place this custom config in your .../unbound.conf.d - folder
+* You can rename it to your preffered <NAME>.conf 
+
+
